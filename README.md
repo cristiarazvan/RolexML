@@ -24,7 +24,20 @@ RolexML demonstrates a sophisticated approach to price prediction in the luxury 
   - Random Forest with feature importance analysis
   - Linear Regression with regularization
   - Gradient Boosting with early stopping
-  
+
+## Visualizations
+
+The following screenshots provide insights into the model performance and predictions:
+
+### Model Comparison
+![Model Comparison](1.png)
+
+### Single Model Analysis
+![Single Model Analysis](2.png)
+
+### Price Predictor
+![Price Predictor](3.png)
+
 ## Technical Implementation
 
 ### Data Pipeline
@@ -100,19 +113,6 @@ python model_trainer.py
 # Launch the visualization interface
 streamlit run dashboard.py
 ```
-
-## Visualizations
-
-The following screenshots provide insights into the model performance and predictions:
-
-### Model Comparison
-![Model Comparison](1.png)
-
-### Single Model Analysis
-![Single Model Analysis](2.png)
-
-### Price Predictor
-![Price Predictor](3.png)
 
 ## Contributing
 
