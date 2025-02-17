@@ -101,6 +101,19 @@ python model_trainer.py
 streamlit run dashboard.py
 ```
 
+## Visualizations
+
+The following screenshots provide insights into the model performance and predictions:
+
+### Model Comparison
+![Model Comparison](1.png)
+
+### Single Model Analysis
+![Single Model Analysis](2.png)
+
+### Price Predictor
+![Price Predictor](3.png)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues and pull requests.
