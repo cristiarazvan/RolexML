@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+.venv
+docs/
+RolexPricePredictor.ipynb
+v1.md
